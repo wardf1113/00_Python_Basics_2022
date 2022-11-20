@@ -1,7 +1,7 @@
 # code to learn about variables
 
 # variables can be string
-greetings = "hello world"
+greetings = "Finlay"
 
 # they can also be numbers
 fav_num = 7
